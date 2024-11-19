@@ -6,6 +6,7 @@ You can use this login page for practicing with Selenium
 Register here or Log in to the secure area with these credentials:
 
 Username: practice
+
 Password: SuperSecretPassword!
 
 https://practice.expandtesting.com/login
