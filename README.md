@@ -1,4 +1,4 @@
-# QA_Training_TestCase1
+# QA_Training_TestCase1_LoginPage
 Test Login page for Automation Testing Practice
 This Test Login page is designed for automation testing practice. Test various positive and negative login scenarios in a testing environment.
 
@@ -10,6 +10,8 @@ Username: practice
 Password: SuperSecretPassword!
 
 https://practice.expandtesting.com/login
+
+
 
 How to test the login page?
 If the credentials are correct, you should see a welcome message; otherwise, you will see an error message.
